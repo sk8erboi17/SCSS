@@ -136,7 +136,7 @@
                   </fileset>
                 </zip>
 
-                <zip destfile="${project.build.directory}/classes/dart-sass-macos-aarch64.zip">
+                <zip destfile="${project.build.directory}/classes/dart-sass-mac-aarch64.zip">
                   <fileset dir="${platform.archives.dir}/macos-aarch64">
                     <include name="**/*" />
                   </fileset>
